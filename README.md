@@ -1,14 +1,6 @@
-# scvi-tools-skeleton
-
-This repository is no longer being maintained. Please use [scverse cookicutter](https://github.com/scverse/cookiecutter-scverse) as a template for future projects.
-
-We host simple implementations of scVI using the cookiecutter template at the [simple-scvi](https://github.com/scverse/simple-scvi) repo.
+# First-task
 
 
-Skeleton repository for creating novel models with
-[scvi-tools](https://www.scvi-tools.org/en/stable/). For questions about
-using this skeleton, please use the scvi-tools
-[forum](https://discourse.scvi-tools.org/).
+We implemented a variational autoencoder package in this repository using SCVI-tools-skeleton. 
+[paper](https://www.nature.com/articles/s41592-018-0229-2)
 
-
-Getting started development using this skeleton is similar to [getting started](https://docs.scvi-tools.org/en/stable/contributing/index.html) with scvi-tools.
